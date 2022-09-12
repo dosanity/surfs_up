@@ -43,3 +43,8 @@ The two histograms show the frequency of temperatures for the months of June and
 ## Summary
 
 The main concerns with opening a year-round ice cream shop in Oahu is rainfall. While there is rain year-round and the average rainfalls are similar for the months of June and December, the average rainfall is fairly light based on the results. Furthermore, the average temperatures year-round support opening an ice cream shop in Oahu with the average temperatures for June and December being 74.94 and 71.04 degrees Fahrenheit respectively. Additionally, the temperature frequencies are mostly between 65 degrees to 80 degrees with temperatures in December being on the lower end and temperatures in June being closer to the higher end of the spectrum. Overall,  the data supports opening a surf and ice cream shop year-round on the island of Oahu.
+
+Expanding on this analysis, some additional queries could further the results: 
+
++ Average hours of sunlight/overcast per day
++ Ideal wave conditions and wind speeds for surfing
